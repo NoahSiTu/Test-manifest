@@ -4,6 +4,8 @@
 
   <remote fetch="ssh://git@github.com/NoahSiTu/" name="test"/>
  
-  <project remote="test" revision="master" name="Test" path="Test"/>
+  <project remote="test" revision="master" name="Test" path="Test">
+          <linkfile dest="helloworld" src="helloworld"/>
+  </project>
 </manifest>
 
