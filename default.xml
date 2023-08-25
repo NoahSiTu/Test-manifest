@@ -4,6 +4,6 @@
 
   <remote fetch="ssh://git@github.com/NoahSiTu/" name="test"/>
  
-  <project remote="test" revision="master" name="Test" path="noah"/>
+  <project remote="test" revision="master" name="Test" path="Test"/>
 </manifest>
 
