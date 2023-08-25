@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <default sync-j="1"/>
+
+  <remote fetch="ssh://git@ssh.github.com/NoahSiTu/" name="test"/>
+ 
+  <project remote="test" revision="master" name="Test" path="noah"/>
+</manifest>
+
